@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animated-base/animated-base.iml" filepath="$PROJECT_DIR$/animated-base/animated-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animated-base-support/animated-base-support.iml" filepath="$PROJECT_DIR$/animated-base-support/animated-base-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animated-gif/animated-gif.iml" filepath="$PROJECT_DIR$/animated-gif/animated-gif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawee/drawee.iml" filepath="$PROJECT_DIR$/drawee/drawee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawee-backends/drawee-backends.iml" filepath="$PROJECT_DIR$/drawee-backends/drawee-backends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawee-backends/drawee-pipeline/drawee-pipeline.iml" filepath="$PROJECT_DIR$/drawee-backends/drawee-pipeline/drawee-pipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fbcore/fbcore.iml" filepath="$PROJECT_DIR$/fbcore/fbcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagepipeline/imagepipeline.iml" filepath="$PROJECT_DIR$/imagepipeline/imagepipeline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imagepipeline-base/imagepipeline-base.iml" filepath="$PROJECT_DIR$/imagepipeline-base/imagepipeline-base.iml" />
+    </modules>
+  </component>
+</project>

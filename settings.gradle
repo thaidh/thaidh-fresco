@@ -1,0 +1,11 @@
+include ':app'
+include ':drawee'
+include ':fbcore'
+include ':drawee-backends:drawee-pipeline'
+include ':imagepipeline'
+include ':imagepipeline-base'
+include ':animated-base'
+include ':animated-base-support'
+include ':animated-gif'
+
+
