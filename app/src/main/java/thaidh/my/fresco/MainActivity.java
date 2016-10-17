@@ -13,6 +13,7 @@
 package thaidh.my.fresco;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.KeyEvent;
@@ -54,7 +55,8 @@ public class MainActivity extends Activity {
     clearButton.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View v) {
-        editText.getText().clear();
+//        editText.getText().clear();
+        startActivity(new Intent(MainActivity.this, MainActivityRound.class));
       }
     });
   }
